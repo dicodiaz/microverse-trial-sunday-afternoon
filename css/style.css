@@ -2,3 +2,16 @@
     background-color: #581845;
     color: #DAF7A6;
 }
+
+#survey-form {
+    text-align: center;
+}
+
+#name-label,
+#email-label,
+#number-label,
+#dropdown-label,
+#radio-label {
+    font-size: 20px;
+    font-weight: bold;
+}
