@@ -1,17 +1,20 @@
-#title {
-    background-color: #581845;
-    color: #DAF7A6;
+body {
+    background: linear-gradient(#581845, #900C3F);
+    text-align: center;
+    color: #fff;
 }
 
-#survey-form {
-    text-align: center;
+input, select {
+    margin-bottom: 20px;
 }
 
 #name-label,
 #email-label,
 #number-label,
 #dropdown-label,
-#radio-label {
+#radio-label,
+#checkboxP {
     font-size: 20px;
     font-weight: bold;
+    margin: 20px;
 }
